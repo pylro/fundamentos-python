@@ -38,9 +38,9 @@ Cada notebook corresponde a um módulo independente, mas todos seguem uma progre
 
 📖 Autor
 
-👤 Adriano Siqueira Pylro
-Engenheiro Mecânico | Doutor em Engenharia Industrial | Especialista em Projetos Industriais, Padronização Técnica e Aplicação de IA na Engenharia.
-LinkedIn: www.linkedin.com/in/adrianopylro
+👤 Adriano Pylro
+> |Engenheiro Mecânico | Doutor em Engenharia Industrial | Especialista em Projetos Industriais, Padronização Técnica e Aplicação de IA na Engenharia.
+> LinkedIn: www.linkedin.com/in/adrianopylro
 
 ---
 
